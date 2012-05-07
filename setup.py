@@ -5,7 +5,7 @@
 NAME = "ZenPacks.chudler.xmppBot"
 VERSION = "2.0"
 AUTHOR = "Colin Hudler"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.chudler']
 PACKAGES = ['ZenPacks', 'ZenPacks.chudler', 'ZenPacks.chudler.xmppBot']
 INSTALL_REQUIRES = []
